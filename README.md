@@ -24,4 +24,4 @@ Dataset:
 ![image](https://user-images.githubusercontent.com/112505758/193600722-2f7c724d-ccc4-4b50-ab91-98775e62a8bc.png)
 
 
-Note: project developed during GCP studies.
+This project has the purpose of consolidating skills learned in the practical GCP Course.
