@@ -13,4 +13,14 @@ Scikit-learn is one of the most useful libraries for machine learning in Python.
 
 The code is instrumented using the hypertune package so it can be used with AI Platform hyperparameter tuning job in searching for the best combination of hyperparameter values by optimizing the metrics you specified.
 
+![image](https://user-images.githubusercontent.com/112505758/193600617-451942c1-05b9-4435-b759-580797133dc2.png)
+
+
+![image](https://user-images.githubusercontent.com/112505758/193600469-dba00d16-ad9d-4279-be33-a1597cbe1cf1.png)
+
+
+Dataset:
+![image](https://user-images.githubusercontent.com/112505758/193600722-2f7c724d-ccc4-4b50-ab91-98775e62a8bc.png)
+
+
 Note: project developed during GCP studies.
